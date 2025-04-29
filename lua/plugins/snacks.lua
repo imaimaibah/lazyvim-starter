@@ -8,6 +8,9 @@ return {
           position = "float",
         },
       },
+      picker = {
+        prompt = "🔍 ",
+      },
     },
   },
 }
